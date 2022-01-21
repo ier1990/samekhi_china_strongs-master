@@ -7,5 +7,5 @@ The JSON files for words are created from `bible_gb_little.db`:
 - The Hebrew words are taken from the `hsnum` and `txt` columns in the `hfhl` table.
 - The Greek words are taken from the `gsnum` and `txt` columns in the `gfhl` table.
 
-Samekhi took & imported JSON files to MySql Database [JSON](https://www.samekhi.com/bible/china/samekhi_china_strongs-master/)
+Samekhi took & imported JSON files to MySql Database [JSON_MYSQL](https://www.samekhi.com/bible/china/samekhi_china_strongs-master/)
 Samekhi took MySql Database & imported the Translation of the Chinese into English using AWS Translation API.
